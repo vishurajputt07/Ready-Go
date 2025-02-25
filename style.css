@@ -1,0 +1,789 @@
+
+		#main{
+		width: 100%;	
+		height:2550px;
+		padding: 60px;
+		background-color: whitesmoke;
+		}
+		#bgimage{
+			background-color: #F0D946;
+			height: 50%;
+			width: 100%;
+			margin-left: -60px;
+			margin-top: -70px;
+		}
+		
+		#p{
+			color: whitesmoke;
+			font-size: 50px;
+			padding-left: 50px;
+			margin-top: -2500px;
+		}
+		/*#a{
+			width: 250px;
+			height: 50px;
+			background-color: transparent;
+			float: right;
+			margin-right: 150px;
+			margin-top: -40px;
+			font-size: 20px;
+			color: white;*/
+		}#a{
+			background-color: red;
+			color: whitesmoke;
+			
+		}
+		#a ul{
+			height: 50px;
+			background-color: transparent;
+			width: 500px;
+			position: absolute;
+			left: 60%;
+			top: 5px;
+			word-spacing: 30px;
+			font-size: 25px;
+			margin-left: 200px;
+		}
+		#a ul li{
+			display: inline;
+			background-color: transparent;
+		}
+		/*#b{
+			width: 200px;
+			height: 50px;
+			background-color: transparent;
+			float: right;
+			margin-right: 40px;
+			margin-top: -40px;
+			font-size: 20px;
+			color: white;*/
+		}
+		#img1{
+			border-radius: 50%;
+			margin-top: 2px;
+			width: 30px;
+			height: 30px;
+		}
+		.para{
+			font-size: 20px;
+			margin-top: 20px;
+			color: black;
+			margin-left: 90px;
+		}
+		#radio{
+			font-size: 20px;
+			float: right;
+			margin-right: 40px;
+			color: black;
+			margin-top: 10px;
+
+		}
+		#flight{
+			width: 750px;
+			height: 628px;
+			background-color: transparent;
+			top: 225px;
+			border-radius: 20px;
+			float: right;
+			padding-top: 10px;
+			right: 40px;
+			position: absolute;
+			box-shadow: 2px 2px 20px lightblue;
+		    
+		}
+		#hyperlink{
+			background-color: red;
+			color: black;
+			
+		}
+		#hyperlink ul{
+			height: 50px;
+			background-color: transparent;
+			width: 400px;
+			position: absolute;
+			left: 50%;
+			top: 5px;
+			word-spacing: 30px;
+			font-size: 25px;
+		
+		}
+		#hyperlink ul li{
+			display: inline;
+			background-color: transparent;
+		}
+		#input1{
+			width: 300px;
+			height: 30px;
+			background-color: transparent;
+			padding: 20px;
+			float: left;
+			margin-top: 60px;
+			border-radius: 30px;
+			font-size: 30px;
+			margin-left: 10px;
+		}
+		#input2{
+			height: 30px;
+			width: 300px;
+			background-color: transparent;
+			padding: 20px;
+			border-radius: 30px;
+			margin-top: 19px;
+			margin-left: 10px;
+			font-size: 30px;
+			
+		}
+		#input3{
+			width: 300px;
+			height: 30px;
+			background-color: transparent;
+			padding: 20px;
+			float: left;
+			margin-top: 60px;
+			border-radius: 30px;
+			font-size: 30px;
+			margin-left: 10px;
+		}
+		#input4{
+			height: 30px;
+			width: 300px;
+			background-color: transparent;
+			padding: 20px;
+			border-radius: 30px;
+			margin-top: 10px;
+			margin-left: 10px;
+			font-size: 30px;
+			
+		}
+		#date1{
+			width: 320px;
+			height: 43px;
+			border-radius: 30px;
+			margin-top: 12px;
+			margin: 10px;
+			float: right;
+			padding: 10px;
+			background-color: transparent;
+			font-size: 15px;
+			margin-left: 3px;
+		}
+		#date11{
+			width: 320px;
+			height: 43px;
+			border-radius: 30px;
+			margin-top: 10px;
+			margin: 10px;
+			padding: 10px;
+			background-color: transparent;
+			font-size: 15px;
+			margin-left: 10px;
+		}
+		#date2{
+			width: 320px;
+			height: 43px;
+			float: left;
+			border-radius: 30px;
+		    margin-left: 12px;
+			padding: 10px;
+			background-color: transparent;
+			font-size: 15px;
+		}
+		#date22{
+			width: 320px;
+			height: 43px;
+			
+			border-radius: 30px;
+		    margin-left: 12px;
+			padding: 10px;
+			background-color: transparent;
+			font-size: 15px;
+		}
+		#date221{
+			width: 320px;
+			height: 43px;
+			float: left;
+			border-radius: 30px;
+		    margin-left: 12px;
+			padding: 10px;
+			background-color: transparent;
+			font-size: 15px;
+		}
+		#date222{
+			width: 320px;
+			height: 43px;
+			
+			border-radius: 30px;
+		    margin-left: 12px;
+			padding: 10px;
+			background-color: transparent;
+			font-size: 15px;
+		}
+		#travellers{
+			width: 325px;
+			height: 50px;
+			border-radius: 30px;
+			margin-left: 10px;
+			margin-top: 10px;
+			padding: 10px;
+			background-color: transparent;
+			float: left;
+		}
+		#class{
+			width: 340px;
+			height: 70px;
+			border-radius: 30px;
+			float: left;
+			background-color: transparent;
+			margin-left: 15px;
+			margin-top: 10px;
+			padding-left: 5px;
+		}
+		#swap{
+			height: 50px;
+			width: 50px;
+			position: absolute;
+			border-radius: 50%;
+			right: 170px;
+			top: 105px;
+
+		}
+		#why{
+			height: 400px;
+			width: 400px;
+			background-color: lightsalmon;
+			margin-top: 20px;
+			margin-left: 210px;
+			float: left;
+			border-radius: 30px;
+
+		}
+		#why2{
+			height: 400px;
+			width: 400px;
+			background-color: lightsalmon;
+			margin-top: 20px;
+			float: left;
+			margin-left: 80px;
+			border-radius: 30px;
+			
+		
+		}
+		#why3{
+			height: 400px;
+			width: 400px;
+			background-color: lightsalmon;
+			margin-top: 20px;
+			float: left;
+			margin-left: 80px;
+			border-radius: 30px;
+			
+		}
+		#why1{
+			width: 400px;
+			height: 100px;
+			background-color: whitesmoke;
+			border-radius: 10px;
+		}
+		#why22{
+			width: 400px;
+			height: 100px;
+			background-color: whitesmoke;
+			border-radius: 10px;
+		}
+		#why33{
+			width: 400px;
+			height: 100px;
+			background-color: whitesmoke;
+			border-radius: 10px;
+		}
+		#search{
+			height: 50px;
+			width: 150px;
+			background-color: orange;
+			border-radius: 10px;
+			bottom: 2px;
+			margin-left: 10%;
+			margin-top: 10px;
+			cursor: pointer;
+			border: none;
+			float: left;
+
+		}
+		#why111{
+			background-color: transparent;
+			left: 350px;
+			top: 600px;
+			position: absolute;
+			font-size: 30px;
+			padding: 10px;
+			border-radius: 10px;
+			font-style: ;
+
+			}
+			#animate{
+				width: 51%;
+				height: 25%;
+				background-color: whitesmoke;
+				margin-top: 80px;
+				margin-left: -50px;
+				background-size: 100% 100%;
+				animation: animate 10s infinite;
+				animation-play-state: all;
+				border-radius: 20px;
+
+			}
+			@keyframes animate{
+				0%,100%{
+					background-image: url(hac1.jpg);
+				}
+				20%{
+					background-image: url(hac2.jpg);
+				}
+				60%{
+					background-image: url(hac1.jpg);
+				}
+				80%{
+					background-image: url(hac4.jpg);
+				}
+			}
+			#offers{
+				width: 70%;
+				height: 17%;
+				background-color: white;
+				margin-top: 90px;
+				margin-left: 200px;
+			}
+			#inoffers1{
+				width: 30%;
+				height: 90%;
+				background-color: whitesmoke;
+				float: left;
+				margin-top: 10px;
+				margin-left: 40px;
+				box-shadow: 0px 0px 3px 3px black;
+				
+
+			}
+			#inoffers2{
+				width: 30%;
+				height: 90%;
+				background-color: whitesmoke;
+				margin-top: 10px;
+				float: left;
+				margin-left: 20px;
+				box-shadow: 0px 0px 3px 3px black;
+				
+				
+			}
+			#inoffers3{
+				width: 30%;
+				height: 90%;
+				background-color: whitesmoke;
+				margin-top: 10px;
+				margin-left: 20px;
+				float: left;
+				box-shadow: 0px 0px 3px 3px black;
+				
+			}
+			#para2{
+				color: black;
+				font-size: 30px;
+				text-align: center;
+				padding-top: 20px;
+			}
+			#bg2{
+				width: 100%;
+				height: 5%;
+				background-color: white;
+				margin-top: 0px;
+				margin-left: -55px;
+				box-shadow: 0px 4px 4px 0px lightskyblue;
+			}
+			#image8{
+				height: 60%;
+				width: 100%;
+			}
+			#off{
+				font-size: 20px;
+				color: black;
+
+			}
+			#off1{
+				background-color: skyblue;
+				width: 100%;
+				height: 12%;
+				float: left;
+				margin-top: 10px;
+				font-size: 25px;
+				text-align: center;
+				padding-top: 8px;
+
+			}
+			#color{
+				color: black;
+			}
+			#bg3{
+				background-color: whitesmoke;
+				width: 100%;
+				height: 1147px;
+			}
+			#finddeal{
+				text-align: center;
+				font-size: 20px;
+				color: black;
+
+			}
+			#flyingfrom{
+				font-size: 15px;
+				color: black;
+				margin-left: 350px;
+
+			}
+			#delhi{
+				font-size: 20px;
+				color: black;
+				margin-left: 350px;
+			}
+			#hr{
+				width: 28%;
+				margin-left: 350px;
+				margin-top: -20px;
+			}
+			#c{
+				height: 50px;
+				width: 550px;
+				background-color: transparent;
+				position: absolute;
+				left: 1100px;
+				top: 1500px;
+			}
+			#d{
+				height: 35px;
+				width: 100px;
+				background-color: white;
+				color: black;
+				border-radius: 5px;
+				border: none;
+			}
+			#e{
+				width: 57.5%;
+				height: 70px;
+				background-color: white;
+				position: absolute;
+				left: 420px;
+				border-radius: 5px;
+				color: gray;
+				border: 0.5px solid darkgray;
+				font-size: 20px;
+				padding-left: 5px;
+			}
+			#f{
+				color: black;
+			}
+			#g{
+				height: 40px;
+				width: 90px;
+				background-color: lightblue;
+				float: right;
+				margin-top: -50px;
+				margin-right: 20px;
+				border: 1px solid gray;
+				border-radius: 5px;
+				box-shadow: 0.5px 0.5px 1px 1px dimgray;
+			}
+			#e1{
+				width: 57.5%;
+				height: 70px;
+				background-color: white;
+				position: absolute;
+				left: 420px;
+				border-radius: 5px;
+				color: gray;
+				border: 0.5px solid darkgray;
+				font-size: 20px;
+				padding-left: 5px;
+				top: 1620px;
+			}
+			#e2{
+				width: 57.5%;
+				height: 70px;
+				background-color: white;
+				position: absolute;
+				left: 420px;
+				border-radius: 5px;
+				color: gray;
+				border: 0.5px solid darkgray;
+				font-size: 20px;
+				padding-left: 5px;
+				top: 1698px;
+			}
+			#e3{
+				width: 57.5%;
+				height: 70px;
+				background-color: white;
+				position: absolute;
+				left: 420px;
+				border-radius: 5px;
+				color: gray;
+				border: 0.5px solid darkgray;
+				font-size: 20px;
+				padding-left: 5px;
+				top: 1775px;
+			}
+			#e4{
+				width: 57.5%;
+				height: 70px;
+				background-color: white;
+				position: absolute;
+				left: 420px;
+				border-radius: 5px;
+				color: gray;
+				border: 0.5px solid darkgray;
+				font-size: 20px;
+				padding-left: 5px;
+				top: 1850px;
+			}
+			#e5{
+				width: 57.5%;
+				height: 70px;
+				background-color: white;
+				position: absolute;
+				left: 420px;
+				border-radius: 5px;
+				color: gray;
+				border: 0.5px solid darkgray;
+				font-size: 20px;
+				padding-left: 5px;
+				top: 1925px;
+			}
+			#e6{
+				width: 57.5%;
+				height: 70px;
+				background-color: white;
+				position: absolute;
+				left: 420px;
+				border-radius: 5px;
+				color: gray;
+				border: 0.5px solid darkgray;
+				font-size: 20px;
+				padding-left: 5px;
+				top: 2000px;
+			}
+			#e7{
+				width: 57.5%;
+				height: 70px;
+				background-color: white;
+				position: absolute;
+				left: 420px;
+				border-radius: 5px;
+				color: gray;
+				border: 0.5px solid darkgray;
+				font-size: 20px;
+				padding-left: 5px;
+				top: 2075px;
+			}
+			#e8{
+				width: 57.5%;
+				height: 70px;
+				background-color: white;
+				position: absolute;
+				left: 420px;
+				border-radius: 5px;
+				color: gray;
+				border: 0.5px solid darkgray;
+				font-size: 20px;
+				padding-left: 5px;
+				top: 2150px;
+			}
+			#div{
+				margin-top: 950px;
+				margin-left: 280px;
+			}
+			#offerss{
+				height: 300px;
+				width: 400px;
+				background-color: orange;
+				border-radius: 10px;
+				float: left;
+			}
+			#offerss1{
+				height: 300px;
+				width: 400px;
+				background-color: orange;
+				border-radius: 10px;
+				float: left;
+				margin-left: 10px;
+			}
+			#offerss2{
+				height: 300px;
+				width: 400px;
+				background-color: orange;
+				border-radius: 10px;
+				float: left;
+				margin-left: 10px;
+			}
+			#image11{
+				height: 80%;
+				width: 100%;
+				border-radius: 10px;
+			}
+			#off2{
+				background-color: maroon;
+				width: 100%;
+				height: 17%;
+				float: left;
+				margin-top: -10px;
+				color: white;
+				font-size: 20px;
+				text-align: center;
+				padding-top: 15px;
+			}
+			#ag{
+				color: whitesmoke;
+				text-decoration: none;
+				cursor: pointer;
+			}
+			#og{
+				color: black;
+				text-decoration: none;
+			}
+			#oga{
+				color: black;
+				text-decoration: none;
+				margin-left: 140px;
+			}
+			a{
+				color: black;
+				text-decoration: none;
+				cursor: pointer;
+			}
+			#gif{
+				height: 400px;
+				width: 400px;
+				position: absolute;
+				margin-left: 250px;
+				margin-top: -320px;
+			}
+			#last{
+				height: 100px;
+				width: 100%;
+				background-color: gray;
+				position: absolute;
+				top: 2580px;
+				left: 0px;
+				box-shadow: 0px 0px 35px 0px gray;
+
+			}
+			#a2{
+			height: 35px;
+			width: 80px;
+			margin-left: 250px;
+			color: white;
+			background-color: black;
+			border-radius: 50%;
+			border: solid black;
+		}
+		#a3{
+			background-color: transparent;
+			border-radius: 50%;
+		}
+		.glass {
+width: 500px;
+height: 400px;
+background-color: rgba(255, 255, 255, 0.1);
+padding: 50px;
+color: #000;
+position: absolute;
+border-radius: 9px;
+top: 0;
+left: 50%;
+backdrop-filter: blur(50px);
+border: 2px solid transparent;
+background-clip: padding-box;
+box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3);
+line-height: 1.5;
+transform: translate(-50%,-50%) scale(0.1);
+transition: transform 0.5s;
+visibility: hidden;
+transition: transform 0.4s, top 0.4s;
+}
+.glass-1 {
+width: 500px;
+height: 400px;
+background-color: rgba(255, 255, 255, 0.1);
+padding: 50px;
+color: rgb(122, 82, 82);
+border-radius: 9px;
+backdrop-filter: blur(50px);
+border: 2px solid transparent;
+background-clip: padding-box;
+box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3);
+line-height: 1.5;
+transform: translatey(-5%);
+transition: transform 0.5s;
+font-size: 1.7rem;
+}
+.glass h1 {
+font-size: 1.5rem;
+text-align: center;
+}
+.glass h2 {
+font-size: 1rem;
+margin-top: 20px;
+}
+.input {
+width: 100%;
+height: 70px;
+overflow: hidden;
+margin-top: 40px;
+}
+.input input {
+width: 100%;
+height: 70px;
+border: none;
+padding-left: 30px;
+padding-top: 0;
+outline: none;
+font-size: 1.5rem;
+border-radius: 20px;
+}
+.glass p {
+font-size: 1.6rem;
+margin-top: 30px;
+}
+.btn{
+	background: #fff;
+	border:0;
+	outline: none;
+	cursor: pointer;
+	font-size: 18px;
+	font-weight: 500;
+	border-radius: 50px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 70px;
+}
+.open-popup{
+	visibility: visible;
+	top: 50%;
+	transform: translate(-50%, -50%) scale(1);
+
+}
+#btnn{
+	width: 70px;
+	height: 70px;
+}
+#btn2{
+
+	padding: 5px 30px;
+	background-color: : black;
+	border:0;
+	outline: none;
+	cursor: pointer;
+	font-size: 11px;
+	font-weight: 500;
+	border-radius: 15px;
+}
+.myfunction.input3.input4{
+	visibility: visible;
+}
